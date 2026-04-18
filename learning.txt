@@ -1,1 +1,1 @@
-In this course, I have learned the fundamental Git workflow of adding, committing, and pushing changes.
+What I have learned from this course is the fundamental Git workflow of adding, committing, and pushing changes.
